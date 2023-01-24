@@ -1,0 +1,6 @@
+theme=1
+colorBlack=-15722964
+colorWhite=-13155998
+colorMove=-13411994
+colorCut=-16764058
+paintAllPossible=False
